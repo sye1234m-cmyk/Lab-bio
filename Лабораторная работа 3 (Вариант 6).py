@@ -1,7 +1,7 @@
 # ЕМЕЛЬЯНЕНКО АНАСТАСИЯ
 # ЛАБОРАТОРНАЯ РАБОТА 3
 # ВАРИАНТ 6
-
+#ГРАФИКИ ДИНАМИКИ ВРЕМЕННЫХ РЯДОВ
 
 from statsmodels.datasets import longley
 import matplotlib.pyplot as plt # библиотека для графиков

@@ -1,0 +1,10 @@
+PZ267029.1: Apis mellifera carnica NADH dehydrogenase subunit 2 gene, complete cds, GC = 0.132948
+PZ267030.1: Apis mellifera carnica NADH dehydrogenase subunit 2 gene, complete cds, GC = 0.132948
+PZ267031.1: Apis mellifera carnica NADH dehydrogenase subunit 2 gene, complete cds, GC = 0.132948
+PZ267032.1: Apis mellifera carnica NADH dehydrogenase subunit 2 gene, complete cds, GC = 0.132948
+PZ267033.1: Apis mellifera carnica NADH dehydrogenase subunit 2 gene, complete cds, GC = 0.132948
+PQ415180.1: Malus domestica ribosomal protein S12 gene, complete cds, GC = 0.427419
+PX653517.1: Malus domestica transcription factors NAC72 gene, complete cds, GC = 0.500000
+PX653518.1: Malus domestica transcription factors NAC72 gene, complete cds, GC = 0.501634
+PZ206946.1: Malus domestica indole-3-acetic acid carboxyl methyltransferase gene, complete cds, GC = 0.501727
+PX653519.1: Malus domestica transcription factors NAC72 gene, complete cds, GC = 0.504085
